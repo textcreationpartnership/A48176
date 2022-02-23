@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48176</idno>
+            <idno type="STC">Wing L1654A</idno>
+            <idno type="STC">ESTC R202818</idno>
+            <idno type="EEBO-CITATION">99825192</idno>
+            <idno type="PROQUEST">99825192</idno>
+            <idno type="VID">29569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29569)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1835:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: June 4. 1691.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>First line of text reads: Perhaps mankind might not be the worse for parting with some.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Economic conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:29569:1" rendition="simple:additions"/>
+            <head>A Letter to a Friend.</head>
+            <p>PErhaps Mankind might not be the worſe for parting with ſome of the Myſteries of Prieſt-craft; but the Morality of the De<g ref="char:EOLhyphen"/>calogue makes it as Convenient, as it is Divine. It will be a difficult Thing to maintain good Order in Families, if Chil<g ref="char:EOLhyphen"/>dren may Diſobey and Diſhonour their Parents; Property, if all have a Licenſe to ſteal; Truth, if it is no longer a fault to belie and bear falſe witneſs againſt our Neighbours. I know a Prince that has con<g ref="char:EOLhyphen"/>quered all Senſe of theſe Commandments, has coveted and wears his Neighbour's, his' Father's Crown, and taken God's Name in his Mouth, and in Vain, to colour over the Murthers he with his Armies, Judges, and Juries commits, and the Perjuries to which he enſlaves others, and Clergy-men themſelves, who ought to have been Innocent and Un<g ref="char:EOLhyphen"/>ſpotted, that their Converſations, as well as their Pulpits, might have taught their Flocks. I wiſh, for the ſake of the World, the Examples of Princes and Prieſts, may not be too prevalent; or, that they would publiſh, what School-diſtinction makes theſe Things lawful for them, that are prohibited to Subjects and the Laity: Religion is uſeful here, as well as promiſes Happineſs hereafter. I would have that Sacred awe, that due regard to it, kept up in the Minds of Men, that is ne<g ref="char:EOLhyphen"/>ceſſary to our Well-being in this, and our hopes of a better Life. I ſhould be ſorry to ſee the World fully perſuaded, that it is a Juggle be<g ref="char:EOLhyphen"/>tween the Learned and the Great, and am ſorry that a late Change gives too much Umbrage for ſuch a Suggeſtion. I had rather have a comprehenſive Arch-biſhop, and that he ſhould never paſs through Water Baptiſm, nor believe the <hi>Athanaſian</hi> Creed, than that he ſhould pare off moral Virtue, or leave us leſs than Heathens. Parricide was not uſed in all their Panegyricks to finiſh the Hero, Oaths were held Sacred, and Alliances too: Nor do I remember one Inſtance, where there was ſuch complicated Villany committed, as I could give a freſh Inſtance of, to obtain Greatneſs; no, it was their ſevere Philoſophy, their Juſtice, their Honour, as well as the Diſcipline of their Armies, made way for the Roman Conqueſts: They ſeldom taught the Subjects of Neighbouring Princes to Rebel, irritated them to Diſcontents and Fa<g ref="char:EOLhyphen"/>ction, or invited them to their Banners: Paganiſm was not inſtructed in this Art of War, but it is the peculiar Diſcovery of ſome late Re<g ref="char:EOLhyphen"/>formers, who are not much the better for their Chriſtianity. But I ſhall leave every Body to their own Reflections, and they may eaſily find how agreeable theſe Things are to Religion, and how much it is mended: Yet, by the way, I have ſtill one remaining Fear in Church Matters; If the Gentleman that could not be choſen Prolocutor to the Convocation, can now, in his greater Poſt, influence the Clergy into State
+<pb n="2" facs="tcp:29569:2"/>Articles and State Diſcipline, Comprehenſion is worſe, both for the Church of <hi>England</hi> Men and Diſſenters, for neither of them then will unmixedly, and conſcientiouſly enjoy their own Opinions; and though the Communion will be enlarged, it will be by making both Parties Hypocrites; and though thoſe that are left out of the Project may have Liberty for a time, yet that will be in Danger, unleſs the Spirit of the Presbyterians is ſweetned farther of late, than was common heretofore with that Sect; who, becauſe they think Men predeſtinated to eternal Puniſhment in the next World, begin that doom with them here, as ſoon as they who are God's Miniſters, or rather Executioners have Power. But let us ſee how much our Conſtitution is amended, by all the ſteps that our Patriots have taken. A Diſputed Election, and ſuch a one as the Whiggs never liked before, recommended Mr. <hi>Powle</hi> to the Speaker's Chair. I do not know whether it will be allowed to publiſh my private Senſe concerning the Authority of Parliaments; I think them rather deputed by the People, under the Inſtructions of our Common Laws, and bounded by our Common Rights, than ſuch Plenipotentiary Powers as may give away at their Pleaſure the Lives and Liberties of the Subject. Therefore I have ſeriouſly queſtioned whether that Parliament which was of K. <hi>W.</hi> and Self creation, (and in its own Nature a Convention, ſummoned without Writs, I had like to have ſaid without Authority,) I ſay, I have queſtioned whether the Members of that Parliament did not exceed their Commiſſion, whilſt, contrary to the known Laws of <hi>England,</hi> they ſuſpended the <hi>Habeas Cor<g ref="char:EOLhyphen"/>pus,</hi> (which was the Right of every Engliſh Man by Writ, before it was by Statute,) and enacted Martial Law. Theſe Things were done by that Convention, and the preſent Parliament lets them all paſs: I muſt confeſs I am unwilling to allow even a Parliament Omnipotent and In<g ref="char:EOLhyphen"/>fallible: There was an antient Cuſtom for the Electors to give their Repreſentatives Inſtructions when they choſe them; I wiſh it had been revived at the beginning of this Revolution, perhaps there had not been then ſuch Infractions made upon our Conſtitution; our Government had not been changed into Elective; our Liberties proſtituted to the Will of Six Privy Counſellours; nor a poor Fellow Hang'd, who, for his Family's ſake, deſerted his Captain, who had liſted him when he was Drunk; nor ſo many Shot and Hang'd for trivial Crimes. I think they may as well make a Law to kill every Old Man that is paſt ſerving the Common-wealth, and drown all Ill-favour'd Children, or enact any other extravagant Thing that ſeems good to them and their King; and they may take away two thirds of every Man's Eſtate, that has not a very good and powerful Friend in the Houſe. Indeed I muſt al<g ref="char:EOLhyphen"/>low, if they may act as they pleaſe and uncontrollably, theſe Things they may do. But this Thought of raiſing Money, as unreaſonably as they pleaſe, puts me in mind of a new Project, I hear is to be offered at the next Seſſion of this Parliament. King <hi>James</hi> indeed had none; but how much did we complain in King <hi>Charles</hi> the Second's Time of Polls and Subſidies: But to this Gentleman we have paid two Polls, and near half our Incomes, conſidering the ſcarcity of Trade and of Money; and now the new Project is for a <hi>General Exciſe.</hi> If Mr. <hi>Hampden</hi> adviſed the laying aſide Chimny-money, becauſe it was popular ſo to do, he
+<pb n="3" facs="tcp:29569:2"/>ought to ſpeak earneſtly againſt this; That indeed view'd our Funnels, but this viſits our Cheſts, and our Wardrobes, our Cellars, and Larders, every Thing we eat, we drink, or we wear. Muſt our Tables be ſpoiled that the Dutch may keep better? Muſt the antient Hoſpitality of <hi>England</hi> be deſtroy'd, by a Hogan Mogan Art of Taxing? Muſt we not only pay Yearly and Monthly Contributions, but every Market Day, every time we buy a pair of Shoes, a Hat, Butter, or Eggs? Is this the De<g ref="char:EOLhyphen"/>liverance we were promiſed? We ſhall be delivered indeed from our Plenty, and our Caſh; at this rate we muſt not luſt after the Fleſh<g ref="char:EOLhyphen"/>pots of Old <hi>England,</hi> but like the Boars of <hi>Holland</hi> feed upon Onions and Roots: This benefit indeed we ſhall have, Temperance will be a Virtue much in practice, though perhaps it will be to make a Virtue of Neceſſity. There is a certain Prince in the World found Methods to ſubjugate a Neighbouring Common-wealth, and to put an end to the flouriſhing Condition, that true Liberty, to which the moſt univerſal Spirit, the Noble <hi>de Wit</hi> had brought his Countrey: A Man that could make his own Countrey-men Slaves; could trample upon their Liber<g ref="char:EOLhyphen"/>ties, where native Soil, old Acquaintance, and the Conſtitution under which he was bred, pleaded againſt him; may from being a real King in <hi>Holland,</hi> though without the Name, be elſe where under that Name, a thorough Tyrant. His kindneſs to us has been ſeen in many Inſtan<g ref="char:EOLhyphen"/>ces, by the Care taken to let ſo many Thouſands periſh in <hi>Ireland,</hi> under <hi>Schombergh,</hi> for want of Proviſions, and on Board the Fleet by bad; by the daily Exportation of our Coin, by the putting Embargoes upon all our Ships this time two Years, whilſt another People ſent their Mer<g ref="char:EOLhyphen"/>chant-men well convoy'd to all Parts of the World; and now at laſt, to mention no more, he will ſhew it by ſetting forward ſuch a Taxation, as was never known in theſe Nations: But Ruling is all his Aim, and that with a high hand too; he has choſen ſuch Miniſters as are fit for the Deſign. But there is no Ruling this Nation in ſuch an Arbitrary man<g ref="char:EOLhyphen"/>ner, without Impoveriſhing it firſt; and ſince it is not quite time of day to ſet up for it by his Foreign Troops, he imploys his Emiſſaries to wheedle Mankind into Poverty, and he knows that will end where he would wiſh. I have only hinted at this new Project to awaken the Genius of the People; I know it is yet only talked of in Cabals, and by the Con<g ref="char:EOLhyphen"/>fidents of the Court: But if I find theſe Knaves proſelite Fools; I ſhall, for my Countries ſake, take a more particular Care to publiſh ſomething to expoſe this laſt and true Impreſſion of Slavery. The Members in Parliament indeed may make it eaſie enough for their own Intereſt, may perhaps nominate Collectors, put in their Friends, and their poor Kindred, and may be themſelves, or place their Sons in ſome of the better Offices; but we may expect the reſt of the World will be left out in the Benefit, and will ſhare in the Burthen, and more than ſhare too, unleſs the <hi>Officer'd Parliament</hi> will quit the Pentions theſe Impo<g ref="char:EOLhyphen"/>ſitions muſt pay. But there is yet behind a more fatal Inconvenience; Land Taxes are uſed to ceaſe, but this will be hard to get back; and you are never to hope it, unleſs you make it one of the Terms of ano<g ref="char:EOLhyphen"/>ther Revolution. Perhaps you will ſay it ſhall be only a Temporary Aſſeſſment, and during this War, and that there ſhall be good Provi<g ref="char:EOLhyphen"/>ſion made againſt a Continuance: But I know a Gentleman that could
+<pb n="4" facs="tcp:29569:3" rendition="simple:additions"/>have reduced <hi>Ireland</hi> very eaſily at firſt, but was adviſed it was better to make that Countrey a good pretence to keep an Army on foot, and ſo exhauſt our Pockets. We have all along had the ſame Preſident of our Councils, and a Neſt Egg may be left to hatch a Tumult withall, if ſo convenient a Branch of the Revenue ſhould be in danger of go<g ref="char:EOLhyphen"/>ing off.</p>
+            <p>The Protector began the Exciſe of Ale and Beer, and you ſee Three ſucceeding Kings have continued it; and if a General Exciſe is once granted, it will as certainly be continued in all Reigns. All Kings will ſtruggle for it: It will not only prodigiouſly encreaſe their Revenues, but ſtrengthen their Authority: It will be a Prerogative Tax: It will regulate Corporations with a witneſs, and root up the ancient Foun<g ref="char:EOLhyphen"/>dations of our Engliſh Government. The Influence that the Offi<g ref="char:EOLhyphen"/>cers which will be ſent into every Man's Houſe and Shop will have upon Elections of Members, will make even our Parliaments more the Repreſentatives of the Exciſe Office, than of the Kingdom; and con<g ref="char:EOLhyphen"/>ſidering how many it will employ, no Prince that has it need have any other ſtanding Army; by a moderate Computation it will not employ much leſs than <hi>Sixty five Thouſand Men,</hi> who will be Slaves to the Crown, and joyn to make us ſo. It is now we want a brave <hi>Jack Ayloffe,</hi> to put a Wooden Shoe into the Speaker's Chair.</p>
+            <p>Thus, Sir, you ſee I have, with the freedom you Commanded, ſent you my Thoughts of publick Affairs.</p>
+            <closer>
+               <signed>
+                  <hi>I am Yours,</hi> &amp;c.</signed>
+               <date>
+                  <hi>June</hi> 4. 1691.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
